@@ -3,12 +3,12 @@
 
 const user1 = {
   id : 1,
-  name: "Jalejandro", 
+  nickName: "Jalejandro", 
   firstSurname : "Moreno"
 },
 user2 = {
   id : 2,
-  name: "Sonia", 
+  nickName: "Sonia", 
   firstSurname : "Lolo"
 }
 const collection = [user1,user2]
@@ -54,6 +54,5 @@ module.exports = {
   }
 }
 
-//Hacer el patch aqui de manera no segoviana 
 
 
